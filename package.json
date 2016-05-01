@@ -1,7 +1,7 @@
 {
   "name": "exist-paths",
   "description": "Filters not exist file or directory paths.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "author": "hoto17296",
   "license": "MIT",
