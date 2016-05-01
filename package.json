@@ -1,7 +1,7 @@
 {
   "name": "exist-paths",
   "version": "0.1.0",
-  "description": "",
+  "description": "Filters not exist file or directory paths.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
