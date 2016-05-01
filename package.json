@@ -1,0 +1,14 @@
+{
+  "name": "exist-paths",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "hoto17296",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
