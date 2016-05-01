@@ -1,13 +1,20 @@
 {
   "name": "exist-paths",
-  "version": "0.1.1",
   "description": "Filters not exist file or directory paths.",
+  "version": "0.1.1",
   "main": "index.js",
+  "author": "hoto17296",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hoto17296/node-exist-paths.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoto17296/node-exist-paths/issues"
+  },
   "scripts": {
     "test": "mocha test.js"
   },
-  "author": "hoto17296",
-  "license": "MIT",
   "devDependencies": {
     "mocha": "*"
   }
